@@ -13,5 +13,5 @@ the data thus obtained, meaningful results are
 hoped to be derived. This can be extended to
 applications in:
 - Sleep tracking device
--Sleep quality analysers
--Smart alarms
+- Sleep quality analysers
+- Smart alarms
