@@ -1,5 +1,5 @@
 # Analysis of Sleep Hygiene in an IoT Sensor Network
-Sleep Project 2017
+## Sleep Project 2017
 The primary objective of the project is to monitor
 the correlation of sleep quality and environmental
 factors (Sleep Hygiene) via data collected from air
